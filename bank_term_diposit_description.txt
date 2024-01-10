@@ -1,0 +1,18 @@
+Este dataset contiene información de las campañas de marketing de un banco portugués, nuestro cliente. Estas campañas se realizaron mediante llamadas telefónicas a clientes. A veces, para que el cliente accediera a comprar el producto (depósito a renta fija) se realizó más de una llamada. El dataset incluye información de las llamadas y hay una columna que indica si el cliente compró el producto o no. El cliente quiere mejorar sus campañas a futuro mediante un modelo prodictivo que, con estos datos, prediga si el cliente es más propenso a comprar el producto o no. Para ello, lo primero que debes hacer es realizar un análisis exploratorio de los datos (EDA). Qué puedes observar en estos datos? Afecta el estado civil al hecho de comprar? Qué conclusiones podemos sacar? Analiza las variables pensando en el valor que le puedes aportar al cliente con este análisis.
+
+Las columnas son:
+
+1.- age: edad
+2.- job: tipo de trabajo
+3.- marital: estado civil
+4.- education: nivel educativo
+5.- housing: dispone de hipoteca?
+6.- loan: dispone de un crédito personal?
+7.- contact: tipo de contacto con el cliente para esta campaña
+8.- month: mes al que se realizó la llamada
+9.- day_of_week: día de la semana al que se realizó la llamada
+10.- duration: duración de la llamada
+11.- campaign: número de llamadas a ese cliente durante la campaña
+12.- poutcome: compró el cliente algún producto en alguna campaña anterior?
+13.- employment_variation_rate: indicador de empleo global
+14.- has_subscribed: compró el producto?
